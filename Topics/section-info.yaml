@@ -1,0 +1,31 @@
+content:
+  - "Basic literals  numbers, strings and characters"
+  - Writing first program
+  - Printing data
+  - Types and variables
+  - Characters
+  - String
+  - Formatted output
+  - Primitive and reference types
+  - Errors in programs
+  - Floating-point types and operations
+  - Type casting
+  - Boolean type and operations. True and false
+  - Comparing values. Relational operators
+  - Conditional statement
+  - One-line condition with ternary operator
+  - For loop
+  - While and do-while loops
+  - Break and continue. Branching
+  - Multiple conditions  switch
+  - Array
+  - Iterating over arrays
+  - Multidimensional array
+  - Processing strings
+  - Declaring methods
+  - Method  main
+  - Calling methods
+  - Overloading
+  - Functional decomposition
+  - Arrays as parameters
+  - Text blocks
