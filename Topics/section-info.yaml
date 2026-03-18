@@ -29,3 +29,6 @@ content:
   - Functional decomposition
   - Arrays as parameters
   - Text blocks
+  - Defining classes
+  - Initializing new instances. Constructor
+  - Multiple constructors

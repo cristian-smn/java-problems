@@ -7,7 +7,7 @@ public class Main {
     }
 
     public static void print(String strArg, int val) {
-        System.out.println("print(\"" + strArg + "\", " + val + ")");
+        System.out.println("print(\"" + strArg + "\", " + val + ')');
     }
 
     /* Do not change code below */

@@ -20,6 +20,6 @@ class Name {
     }
 
     public static String createFullName(String firstName, String lastName) {
-        return firstName + " " + lastName;
+        return firstName + ' ' + lastName;
     }
 }
