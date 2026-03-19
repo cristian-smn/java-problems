@@ -32,3 +32,10 @@ content:
   - Defining classes
   - Initializing new instances. Constructor
   - Multiple constructors
+  - Instance methods
+  - StringBuilder
+  - Static members
+  - Random class
+  - Combining constants with enum
+  - NullPointerException
+  - Array exceptions
