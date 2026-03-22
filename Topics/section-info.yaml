@@ -39,3 +39,7 @@ content:
   - Combining constants with enum
   - NullPointerException
   - Array exceptions
+  - Fields and methods in enum
+  - Getters and setters
+  - Adding annotations
+  - Inheritance
