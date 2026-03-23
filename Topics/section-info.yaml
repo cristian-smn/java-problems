@@ -43,3 +43,9 @@ content:
   - Getters and setters
   - Adding annotations
   - Inheritance
+  - Grouping classes with packages
+  - Keyword  super
+  - Method overriding
+  - Abstract class
+  - Hierarchy of exceptions
+  - Exception handling

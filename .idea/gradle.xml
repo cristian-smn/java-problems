@@ -11,6 +11,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Abstract class" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites" />
             <option value="$PROJECT_DIR$/Topics/Adding annotations/Adding annotations" />
             <option value="$PROJECT_DIR$/Topics/Adding annotations/Creating and invoking methods in Animal and Dog classes" />
             <option value="$PROJECT_DIR$/Topics/Array exceptions/Array exceptions" />
@@ -59,6 +62,9 @@
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix the program" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Print the age" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Exception handling" />
             <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Balance management" />
             <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Fields and methods in enum" />
             <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Robot control" />
@@ -80,6 +86,10 @@
             <option value="$PROJECT_DIR$/Topics/Functional decomposition/Method createFullName" />
             <option value="$PROJECT_DIR$/Topics/Getters and setters/Book" />
             <option value="$PROJECT_DIR$/Topics/Getters and setters/Getters and setters" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Grouping classes with packages" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/BadRequestException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Hierarchy of exceptions" />
             <option value="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital" />
             <option value="$PROJECT_DIR$/Topics/Inheritance/Inheritance" />
             <option value="$PROJECT_DIR$/Topics/Inheritance/calculating triangle perimeter" />
@@ -95,8 +105,13 @@
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Iterating over arrays" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Right Rotation" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sum array elements greater than a value" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Employees" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Fix the non-compiled hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Keyword  super" />
             <option value="$PROJECT_DIR$/Topics/Method  main/Fixing the main method" />
             <option value="$PROJECT_DIR$/Topics/Method  main/Method  main" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Method overriding" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Shapes area" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Creating a diagonally striped pattern in a matrix" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Multidimensional array" />
             <option value="$PROJECT_DIR$/Topics/Multidimensional array/Swap the columns" />
